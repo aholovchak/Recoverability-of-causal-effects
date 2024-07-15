@@ -9,7 +9,7 @@ library(ggplot2) # for visualization
 library (doParallel) # for parallelization
 
 
-setwd("/Users/aholovchak/Documents/missingness_DAGs/PAPER/aktuell")
+setwd("~/missingness_DAGs/PAPER/aktuell")
 source("ce_estim_VL_84.R")
 source("missing_fct.R")
 
